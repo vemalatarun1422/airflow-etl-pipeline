@@ -1,0 +1,8 @@
+order_id,order_date,region,product,quantity,unit_price
+1001,2025-01-01,midwest,Widget,2,19.99
+1002,2025-01-01,West,Gadget,1,49.50
+1003,2025-01-01,midwest,Widget,5,19.99
+1003,2025-01-01,midwest,Widget,5,19.99
+1004,2025-01-02,East,Gizmo,3,12.00
+1005,2025-01-02,,Widget,1,19.99
+1006,2025-01-02,West,Gadget,2,49.50
